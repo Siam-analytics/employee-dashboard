@@ -2,6 +2,10 @@
 
 This project presents an interactive dashboard designed to analyze key employee metrics. It provides a comprehensive view of salary distributions, average job ratings across different departments, and leave information, segmented by country. The dashboard aims to offer valuable insights into workforce dynamics and potential areas for further investigation.
 
+## Dashboard Screenshot
+
+![Employee Dashboard Screenshot](https://github.com/Siam-analytics/employee-dashboard/blob/main/Screenshot%202025-04-28%20233518.png)
+
 ## Key Metrics
 
 * **Average Expenses:** 1.48
